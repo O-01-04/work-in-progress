@@ -13,7 +13,19 @@
 </p>
 
 <div align="center">
-  test
+  ${\color{#C7494D}he \space / \space him}$
+</div>
+
+<div align="center">
+  ${\color{#C7494D}active \space sometimes}$⠀⠀✦⠀⠀
+  
+  ${\color{#C7494D}usually \space offtab}$
+</div>
+
+
+
+<div align="center">
+  ${\color{#C7494D}links \space !}$
 </div>
 
 <p align="center">
