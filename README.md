@@ -15,14 +15,15 @@
 <div align="center">
   ${\color{#C7494D}he \space / \space him}$
 </div>
-
+⠀⠀
+⠀⠀
 <div align="center">
-  ${\color{#C7494D}active \space sometimes}$⠀⠀✦⠀⠀
-  
   ${\color{#C7494D}usually \space offtab}$
 </div>
 
-
+<div align="center">
+  <img width="2402" height="529" alt="Untitled332_20251101214807" src="https://github.com/user-attachments/assets/822e53c6-38d1-4971-a5bc-750f52f89c80" />
+</div>
 
 <div align="center">
   ${\color{#C7494D}links \space !}$
