@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://boosfer.atabook.org"/>atabook</a>⠀⠀
+  <img width="32" height="32" alt="arcana" src="https://github.com/user-attachments/assets/39947b5c-af9e-4d86-b9ad-b4ce914986bc" />⠀⠀
+  <a href="https://takumifujiwara.straw.page"/>strawpage</a>
+</p>
+
+<p align="center">
+  <a href="https://rentry.co/gambitmace"/>rentry</a>
+</p>
+
+<!--
 <table>
   <td>
 <div align="center">
